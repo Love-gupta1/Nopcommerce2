@@ -1,0 +1,5 @@
+Nopcommerce\PageFactory.class
+Nopcommerce\LoginPage.class
+Nopcommerce\Menu.class
+Test\LoginTest.class
+Test\BaseClass.class
